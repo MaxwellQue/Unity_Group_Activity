@@ -41,6 +41,6 @@ Player: ball
 Infinite Game Mode (platform)
 every 1-3 minutes: Speed +1
 ```
-[Random Spawn Point](https://docs.unity3d.com/2020.3/Documentation/ScriptReference/Random.InitState.html)
-[Raycast Hit](https://docs.unity3d.com/2020.3/Documentation/ScriptReference/Physics.Raycast.html)
-[Music](https://docs.unity3d.com/2020.3/Documentation/ScriptReference/AudioSource.Play.html)
+* [Random Spawn Point](https://docs.unity3d.com/2020.3/Documentation/ScriptReference/Random.InitState.html)
+* [Raycast Hit](https://docs.unity3d.com/2020.3/Documentation/ScriptReference/Physics.Raycast.html)
+* [Music](https://docs.unity3d.com/2020.3/Documentation/ScriptReference/AudioSource.Play.html)
