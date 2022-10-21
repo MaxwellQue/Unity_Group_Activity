@@ -6,14 +6,18 @@ C#
 Desktop
 ```
 
-## Game Controls
+## Controls
 ```
-Automatic Movement
+Automatic Movement (forward)
 left and Right
 Jump
+```
+## Gameplay
+```
 3 Object Spawn (Left, Middle, Right)
 Checkpoint
-HighScrore
+Main Score
+High Scrore
 
 Start at 3 Health
 maximum of 10 Health
