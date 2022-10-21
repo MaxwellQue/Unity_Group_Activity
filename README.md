@@ -13,6 +13,7 @@ left and Right
 Jump
 3 Object Spawn (Left, Middle, Right)
 Checkpoint
+HighScrore
 
 Start at 3 Health
 maximum of 10 Health
