@@ -36,7 +36,6 @@ Health objects (glass Heart Object)
 
 ## Reference
 ```
-
 Player: ball
 Infinite Game Mode (platform)
 every 1-3 minutes: Speed +1
