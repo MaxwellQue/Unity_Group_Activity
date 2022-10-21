@@ -9,7 +9,9 @@ Desktop
 ## Game Controls
 ```
 Automatic Movement
-
+left and Right
+Jump
+3 Object Spawn (Left, Middle, Right)
 Checkpoint
 
 Start at 3 Health
@@ -23,7 +25,7 @@ Dodgaeble objects
 enemy (wall) -1 Health
 
 Buff:
-5 object hit = +1 Health
+3 object hit = +1 Health
 Health objects (glass Heart Object)
 ```
 
@@ -31,8 +33,8 @@ Health objects (glass Heart Object)
 ```
 
 Player: ball
-
 Infinite Game Mode (platform)
+every 1-3 minutes: Speed +1
 
 Random Spawn Point:
 https://docs.unity3d.com/2020.3/Documentation/ScriptReference/Random.InitState.html
